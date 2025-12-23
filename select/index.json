@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "3時12分 (原口沙輔 Remix)",
+  "base_artist": "TAKU INOUE",
+  "createdAt": "2025-12-23T12:23:28.958249Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "3時12分 (原口沙輔 Remix feat. 星街すいせい)",
+      "artist": "TAKU INOUE",
+      "has_synced": false,
+      "path": "select/pl_01_3時12分_(原口沙輔_Remix_feat._星街すいせい)_TAKU_INOUE.txt"
+    }
+  ]
+}
